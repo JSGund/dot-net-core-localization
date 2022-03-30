@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oh5X+Du5OHhWTU2YFwYy5fy/lfwNh39U36ji651dKsKK7rAn6j7TpeRWl0HEJsXzcV3ijKHhUkzHn866qd8czg==",
+  "success": true,
+  "projectFilePath": "D:\\Demos\\GitHub\\dot-net-core-localization\\DotNetCoreLocalization\\DotNetCoreLocalization\\DotNetCoreLocalization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeetendra.gund\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

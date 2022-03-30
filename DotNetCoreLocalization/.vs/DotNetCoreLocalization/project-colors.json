@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0d88742-aa54-4243-a473-ccc8c8955832": {
+      "ProjectGuid": "b0d88742-aa54-4243-a473-ccc8c8955832",
+      "DisplayName": "DotNetCoreLocalization",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
