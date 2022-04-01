@@ -317,6 +317,11 @@
         "runtime": {
           "DotNetCoreLocalization.dll": {}
         },
+        "resources": {
+          "en-US/DotNetCoreLocalization.resources.dll": {
+            "locale": "en-US"
+          }
+        },
         "compile": {
           "DotNetCoreLocalization.dll": {}
         }

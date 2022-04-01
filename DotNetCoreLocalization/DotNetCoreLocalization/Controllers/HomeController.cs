@@ -1,5 +1,7 @@
 ﻿using DotNetCoreLocalization.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Localization;
+using Microsoft.Extensions.Localization;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -12,14 +14,17 @@ namespace DotNetCoreLocalization.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IStringLocalizer<HomeController> _stringLocalizer;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IStringLocalizer<HomeController> stringLocalizer)
         {
             _logger = logger;
+            _stringLocalizer = stringLocalizer;
         }
 
         public IActionResult Index()
         {
+            ViewData["Title"] = _stringLocalizer["title"].Value;
             return View();
         }
 

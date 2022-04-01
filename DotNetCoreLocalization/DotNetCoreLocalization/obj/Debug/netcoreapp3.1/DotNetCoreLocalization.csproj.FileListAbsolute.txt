@@ -34,3 +34,12 @@ D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocal
 D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.pdb
 D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.genruntimeconfig.cache
 D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.CopyComplete
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.en-US.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.csproj.GenerateResource.cache
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\en-US\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.en-US.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\bin\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Controllers.HomeController.de-DE.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\DotNetCoreLocalization.Resources.Views.Home.Index.de-DE.resources
+D:\Demos\GitHub\dot-net-core-localization\DotNetCoreLocalization\DotNetCoreLocalization\obj\Debug\netcoreapp3.1\de-DE\DotNetCoreLocalization.resources.dll
