@@ -23,9 +23,10 @@ namespace DotNetCoreLocalization
 
             services.Configure<RequestLocalizationOptions>(options =>
             {
-                options.SetDefaultCulture("de-DE");
+                options.SetDefaultCulture("en-US");
                 options.AddSupportedUICultures("en-US", "de-DE");
                 options.FallBackToParentUICultures = true;
+                options.RequestCultureProviders.Clear();
             });
 
             services.AddControllersWithViews()
